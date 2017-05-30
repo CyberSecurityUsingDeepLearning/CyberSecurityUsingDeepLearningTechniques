@@ -5,5 +5,5 @@ This is an automated malware detection system based on deep learning that will i
 
 How to Test:
 =============
-Install application .APK file on user device 
+Install application app-release.apk file on user device.
 After successfully installtion you can register the application with new user information.
